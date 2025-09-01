@@ -98,6 +98,7 @@ h4 {
 
 .card .details {
 	position: absolute;
+	justify-content: center;
 	top: 0;
 	left: 0;
 	box-sizing: border-box;
@@ -108,7 +109,7 @@ h4 {
 
 .card .details p {
 	font-size: 12px;
-	line-height: 5px;
+	line-height: 7px;
 	transform: rotate(-10deg);
 	padding: 0 0 0 20px;
 }
